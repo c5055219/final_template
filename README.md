@@ -35,7 +35,7 @@ During the BERT training, checkpoints were saved to allow recovery from runtime 
 This project uses the WELFake dataset for fake and real news classification.
 
 Dataset source:
-https://www.kaggle.com/datasets/emineyetm/fake-news-detection-dataset/data
+https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets/data
 The dataset contains the news title, text and label used for classification.
 
 
