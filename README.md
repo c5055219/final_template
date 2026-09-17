@@ -1,4 +1,4 @@
-# fake_news_detecion
+# fake_news_detection
 README - FAKE NEWS DETECTION USING TRASNFORMER BASED MODEL WITH AI EXPLAINABILITY
 
 # PROJECT OVERVIEW 
@@ -33,7 +33,7 @@ During the BERT training, checkpoints were saved to allow recovery from runtime 
 #BERT Model Checkpoints
 BERT Training checkpoints were saved during model training to preserve training progress and allow recovery from runtime interruptions.
 https://drive.google.com/drive/folders/1xIC7_Wz282KGtoYS1cpYQV0e_DuDdqV_?usp=sharing
-https://drive.google.com/drive/folders/1DMF_nW1mP-HL4_COpA_rizlKiR4WRz1q?usp=sharing
+
 
 
 # Dataset
