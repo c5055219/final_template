@@ -30,6 +30,12 @@ During the BERT training, checkpoints were saved to allow recovery from runtime 
 -Final model: `final_model`
 -Training checkpoints: `bert_results`
 
+#BERT Model Checkpoints
+BERT Training checkpoints were saved during model training to preserve training progress and allow recovery from runtime interruptions.
+https://drive.google.com/drive/folders/1xIC7_Wz282KGtoYS1cpYQV0e_DuDdqV_?usp=sharing
+https://drive.google.com/drive/folders/1DMF_nW1mP-HL4_COpA_rizlKiR4WRz1q?usp=sharing
+
+
 # Dataset
 
 This project uses the WELFake dataset for fake and real news classification.
@@ -37,6 +43,8 @@ This project uses the WELFake dataset for fake and real news classification.
 Dataset source:
 https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets/data
 The dataset contains the news title, text and label used for classification.
+
+
 
 
 
